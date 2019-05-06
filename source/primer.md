@@ -356,7 +356,7 @@ and now include:
 ## Data Access Frameworks {#data-frameworks}
 
 Most often, the business layer is seen to be distinct from
-the data access layer. Some teams roll their own data access objects (DAOs),
+the data  layer. Some teams roll their own data access objects (DAOs),
 but more and more teams are turning to one of the many
 data access frameworks. Some popular data access frameworks include:
 
